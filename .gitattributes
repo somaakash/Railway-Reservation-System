@@ -1,0 +1,3 @@
+*.sql linguist-language=SQL
+*.html linguist-vendored=true
+*.md linguist-vendored=true

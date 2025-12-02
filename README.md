@@ -37,7 +37,7 @@ Each table includes:
 - Table creation with proper constraints.  
 - Data insertion. 
 - Relationship mapping.  
-- Useful sample queries  
+- Useful sample queries . 
 
 ---
 
